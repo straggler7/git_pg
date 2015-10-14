@@ -5,3 +5,6 @@ Porsche
 Mercedes
 Lotus
 
+<p>I will display &spades;</p>
+<p>I will display &#9824;</p>
+<p>I will display &#x2660;</p>
